@@ -1,16 +1,16 @@
 {
     "profiles":[
-   { "Id":1,
+   { "id":1,
      "name": "GTm",
     "email": "gtmW@gmail.com",
     "message": "Hello Angular Data one"},
 
-    {   "Id":2,
+    {   "id":2,
         "name": "Gowtham",
         "email": "gtmW@gmail.com",
         "message": "Hello Angular Data two"},
     
-    {   "Id":3,
+    {   "id":3,
         "name": "Gowtham",
      "email": "gtmW@gmail.com",
      "message": " Hello Angular Data three"}
