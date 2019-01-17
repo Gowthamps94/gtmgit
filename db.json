@@ -1,5 +1,6 @@
-[
-    { "Id":1,
+{
+    "profiles":[
+   { "Id":1,
      "name": "GTm",
     "email": "gtmW@gmail.com",
     "message": "Hello Angular Data one"},
@@ -15,3 +16,4 @@
      "message": " Hello Angular Data three"}
 
 ]
+}
